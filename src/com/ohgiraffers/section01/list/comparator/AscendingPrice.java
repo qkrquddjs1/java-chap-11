@@ -1,6 +1,6 @@
-package com.ohgiraffers.secton01.list.comparator;
+package com.ohgiraffers.section01.list.comparator;
 
-import com.ohgiraffers.secton01.list.dto.BookDTO;
+import com.ohgiraffers.section01.list.dto.BookDTO;
 
 import java.util.Comparator;
 
